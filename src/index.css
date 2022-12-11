@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 0;
+}
+
+body {
+  background: #223;
+}
+
+.screen {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+canvas,
+sun-star {
+  position: absolute;
+}
